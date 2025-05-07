@@ -1,0 +1,149 @@
+{
+    "dlcDetailsView": {
+        "error": "",
+        "downloadTitle": "SQL Server® 2022 for Microsoft® Windows Latest Cumulative Update",
+        "downloadDescription": "Cumulative Update Package 18 for SQL Server 2022 - KB5050771",
+        "downloadFile": [
+            {
+                "isPrimary": "False",
+                "name": "SQLServer2022-KB5050771-x64.exe",
+                "url": "https://download.microsoft.com/download/a89001cb-9c99-48d3-9f14-ded054b35fe4/SQLServer2022-KB5050771-x64.exe",
+                "size": "483605760",
+                "version": "16.0.4185.3",
+                "datePublished": "3/13/2025 4:42:07 PM"
+            }
+        ],
+        "localeDropdown": [
+            {
+                "cultureCode": "zh-cn",
+                "name": "Chinese (Simplified)"
+            },
+            {
+                "cultureCode": "zh-tw",
+                "name": "Chinese (Traditional)"
+            },
+            {
+                "cultureCode": "en-us",
+                "name": "English"
+            },
+            {
+                "cultureCode": "fr-fr",
+                "name": "French"
+            },
+            {
+                "cultureCode": "de-de",
+                "name": "German"
+            },
+            {
+                "cultureCode": "it-it",
+                "name": "Italian"
+            },
+            {
+                "cultureCode": "ja-jp",
+                "name": "Japanese"
+            },
+            {
+                "cultureCode": "ko-kr",
+                "name": "Korean"
+            },
+            {
+                "cultureCode": "pt-br",
+                "name": "Portuguese (Brazil)"
+            },
+            {
+                "cultureCode": "ru-ru",
+                "name": "Russian"
+            },
+            {
+                "cultureCode": "es-es",
+                "name": "Spanish"
+            }
+        ],
+        "detailsSection": "<b>The latest Cumulative Update (CU) download is the most recent CU released for SQL Server 2022 and contains all updates released since the release of SQL Server 2022 RTM.</b>\n<br />\n<ul>\n  <li>This Cumulative Update includes all fixes from all previous RTM Cumulative Updates, therefore it can be installed to resolve issues fixed in any previous RTM CU</li>\n  <li>The latest 2022 update is <a name=\"KB5050771\"></a><a href=\"https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate18\">CU18 - KB5050771</a></li>\n    </ul><br />",
+        "detailsSection_kbArticles": {
+            "link": "http://support.microsoft.com/kb/",
+            "name": ""
+        },
+        "detailsSection_securityBulletins": {
+            "link": "http://technet.microsoft.com/en-us/security/Bulletin/",
+            "name": ""
+        },
+        "detailsSection_file_version": "16.0.4185.3",
+        "detailsSection_file_name": [
+            "SQLServer2022-KB5050771-x64.exe"
+        ],
+        "detailsSection_file_size": [
+            "461.2 MB"
+        ],
+        "detailsSection_file_date": "3/13/2025",
+        "systemRequirementsSection": "<br />\n      For complete system requirements, please reference the detailed <a href=\"https://learn.microsoft.com/en-us/sql/sql-server/install/hardware-and-software-requirements-for-installing-sql-server-2022?view=sql-server-ver16\">Systems Requirements</a> page.\n<br />",
+        "systemRequirementsSection_supportedOS": [
+            "Windows 10",
+            "Windows 11",
+            "Windows Server 2016",
+            "Windows Server 2019",
+            "Windows Server 2022"
+        ],
+        "installInstructionSection": "<br />\nAfter the download has completed, execute the download package on the system where the SQL Server components to be updated are installed and follow the instructions.\n<br />",
+        "relatedResourcesSection": [],
+        "locale": "en-us",
+        "seoString": "{\"@context\":\"http://schema.org\",\"@graph\":[{\"@type\":\"HowTo\",\"estimatedCost\":{\"@type\":\"MonetaryAmount\",\"currency\":\"USD\",\"value\":\"0\"},\"name\":\"SQL Server® 2022 for Microsoft® Windows Latest Cumulative Update\",\"description\":\"Cumulative Update Package 18 for SQL Server 2022 - KB5050771\",\"step\":[{\"@type\":\"HowToStep\",\"text\":\"<br />\",\"url\":\"https://www.microsoft.com/en-us/download/details?id=105013\"},{\"@type\":\"HowToStep\",\"text\":\"After the download has completed, execute the download package on the system where the SQL Server components to be updated are installed and follow the instructions.\",\"url\":\"https://www.microsoft.com/en-us/download/details?id=105013\"},{\"@type\":\"HowToStep\",\"text\":\"<br />\",\"url\":\"https://www.microsoft.com/en-us/download/details?id=105013\"}]},{\"@type\":\"DownloadAction\",\"object\":{\"@type\":\"SoftwareApplication\",\"name\":\"SQL Server® 2022 for Microsoft® Windows Latest Cumulative Update\",\"operatingSystem\":\"Windows 10, Windows 11, Windows Server 2016, Windows Server 2019, Windows Server 2022\",\"applicationCategory\":\"other\"},\"agent\":{\"@type\":\"SoftwareApplication\",\"name\":\"SQL Server® 2022 for Microsoft® Windows Latest Cumulative Update\"}}]}",
+        "detailsId": "105013",
+        "localizedText": {
+            "accordion containing details about the download": "accordion containing details about the download",
+            "Downloading": "Downloading",
+            "Download center detail page": "Download center detail page",
+            "download action": "download action",
+            "Select language": "Select language",
+            "Size": "Size",
+            "Important! Selecting a language below will dynamically change the complete page content to that language.": "Important! Selecting a language below will dynamically change the complete page content to that language.",
+            "Version:": "Version:",
+            "KB Articles:": "KB Articles:",
+            "file details": "file details",
+            "Additional Information": "Additional Information",
+            "Close dialog winodw": "Close dialog winodw",
+            "System Requirements": "System Requirements",
+            "Downloaded": "Downloaded",
+            "File Name": "File Name",
+            "Download": "Download",
+            "Expand all": "Expand all",
+            "Install Instructions": "Install Instructions",
+            "If your download does not start in 30 seconds, {0}.": "If your download does not start in 30 seconds, {0}.",
+            "Date Published:": "Date Published:",
+            "Supported Operating Systems": "Supported Operating Systems",
+            "Collapse all": "Collapse all",
+            "File Name:": "File Name:",
+            "security details": "security details",
+            "Download Link": "Download Link",
+            "Total size: {0}": "Total size: {0}",
+            "File Size:": "File Size:",
+            "click here to download manually": "click here to download manually",
+            "Details": "Details",
+            "Related Resources": "Related Resources",
+            "Choose the download you want": "Choose the download you want",
+            "Security bulletins:": "Security bulletins:"
+        },
+        "downloadPreload": true,
+        "bannerHeading": "Copilot is your AI companion",
+        "bannerHeadingSize": "h2",
+        "bannerDescription": "Always by your side, ready to support you whenever and wherever you need it.",
+        "bannerImage": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Feature-Copilot-Native-App",
+        "bannerImageSize": "Small",
+        "bannerImageAlt": "A picture of a dog with a pop up bubble saying Talk to Copilot and asking What celeb does my dog look like?",
+        "bannerImgaeTransparency": false,
+        "bannerIsTextCenter": false,
+        "bannerLeftAligned": false,
+        "bannerFirstLink": {
+            "linkContent": "https://app.adjust.com/1htyvuv4?fallback=https%3A%2F%2Fwww.microsoft.com%2Fmicrosoft-copilot%2Ffor-individuals%2Fcopilot-app%3Fform%3DMY02G3%26OCID%3DMY02G3&redirect_macos=https%3A%2F%2Fwww.microsoft.com%2Fmicrosoft-copilot%2Ffor-individuals%2Fcopilot-app%3Fform%3DMY02G3%26OCID%3DMY02G3",
+            "linkTitle": "Download the Copilot app",
+            "linkColor": "btn-dark",
+            "linkType": "Button",
+            "ariaLabel": "Download the Copilot app"
+        },
+        "bannerSecondLink": {
+            "linkColor": "text-dark"
+        },
+        "bannerSectionAriaLabel": "download center details page banner - Microsoft Copilot",
+        "bannerExist": true
+    }
+}
